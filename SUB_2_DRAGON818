@@ -1,6 +1,6 @@
 local OrionLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Orion/main/source'))()
 local Window = OrionLib:MakeWindow({
-    Name = "FireX Hub🔥 ┃ Pets Go GUI🎲",
+    Name = "Dragon818🔥 ┃ Pets Go GUI🎲",
     HidePremium = true,
     SaveConfig = true,
     ConfigFolder = "Swift Hub",
